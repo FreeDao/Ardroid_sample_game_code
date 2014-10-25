@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/back"
+    android:id="@+id/tl"
+	android:shrinkColumns="1">
+	    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_weight="0.00"
+        android:src="@drawable/ranktitle" />
+    <TableRow 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+        android:paddingRight="20dp"
+        android:layout_width="70dp"
+        android:layout_height="25dp"
+        android:src="@drawable/rrank" />
+        
+        <ImageView
+        android:paddingRight="100dp"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:src="@drawable/rdate" />
+        
+        <ImageView
+            android:paddingRight="20dp"
+        android:layout_width="70dp"
+        android:layout_height="25dp"
+        android:src="@drawable/rtime" />
+
+    </TableRow>
+
+
+
+</TableLayout>

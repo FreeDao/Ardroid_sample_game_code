@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!-- XML的版本以及编码方式 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"><!-- 定义一个线性布局 -->
+	
+	<wyf.hl.MapView
+		android:id="@+id/gameView"  
+  	  	android:layout_width="fill_parent" 
+  	  	android:layout_height="wrap_content"/><!-- 添加自己实现的View -->
+  	  	
+</LinearLayout>

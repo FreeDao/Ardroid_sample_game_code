@@ -1,0 +1,12 @@
+
+body {
+BACKGROUND-COLOR: transparent;
+BACKGROUND-IMAGE: url(images/bg.png); 
+BACKGROUND-POSITION: 0px 0px;
+background-repeat: repeat-y;
+}
+
+body p, 
+body li {
+font-size: 110%;
+}

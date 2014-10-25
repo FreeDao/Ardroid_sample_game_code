@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/back">
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="105dp"
+        android:src="@drawable/tital" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:background="@drawable/button1x"
+        android:text="开始游戏" 
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+         android:layout_height="53dp"
+        android:text="游戏设置" 
+        android:background="@drawable/button2x"/>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:text="游戏帮助" 
+        android:background="@drawable/button3x"/>
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:text="高分榜" 
+        android:background="@drawable/button1x"/>
+    
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:text="关于" 
+        android:background="@drawable/button2x"/>
+    
+        <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="退出" 
+        android:background="@drawable/button3x"/>
+
+</LinearLayout>

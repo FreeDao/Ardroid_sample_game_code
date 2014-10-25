@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">炫彩塔防</string>
+    <string name="start">开始游戏</string>
+    <string name="continues">继续游戏</string>
+    <string name="howtoplay">游戏方法</string>   
+    <string name="aboutgame">关于游戏</string> 
+    <string name="exit">退出游戏</string> 
+    
+    
+    <string name="number1">1.羊肠小路</string>
+    <string name="number2">2.弯弯曲曲</string>
+    <string name="number3">3.群岛</string>
+    <string name="number4">4.开放领域</string>
+    <string name="number5">5.渗透膜</string>
+        <string name="number6">6.变的复杂</string>
+    <string name="number7">7.弹珠台</string>
+    <string name="number8">8.一条回家的路</string>
+    <string name="number9">9.大门</string>
+    <string name="number10">10.坑洞</string>
+    <string name="number11">11.两条路</string>
+    <string name="number12">12.安全检查站</string>
+    <string name="number13">13.回溯</string>
+    <string name="number14">14.生命的循环</string>
+    <string name="number15">15.潮池</string>
+        <string name="number16">16.口袋</string>
+    <string name="number17">17.海沟</string>
+    <string name="number18">18.围墙花园</string>
+    <string name="number19">19.缓慢一点</string>
+    <string name="number20">20.堡垒</string>
+    <string name="highpoint">记录：</string>
+    <string name="ys">您选择了</string>
+    <string name="about">关于</string>
+    <string name="set">设置</string>
+    <string name="yinxiao">音效</string>
+    <string name="yinyue">音乐</string>
+    <string name="huazhi">画质</string>
+    
+    <string name="chakan">访问android市场</string>
+    
+</resources>

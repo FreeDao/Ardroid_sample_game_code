@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/home_background"
+    >
+<Button
+	android:id="@+id/start"
+	android:background="@drawable/newgame_selector"
+	android:layout_gravity="center_horizontal"
+	android:layout_marginTop="225dip"
+	android:layout_width="190dip"
+	android:layout_height="50dip"
+	android:text="@string/start"
+	android:textColor="#ffffff"
+	android:textSize="20dip"
+	/>
+
+	
+	<Button
+	android:id="@+id/continuegame"
+	android:background="@drawable/newgame_selector"
+	android:layout_gravity="center_horizontal"
+	android:layout_marginTop="32dip"
+	android:layout_width="190dip"
+	android:layout_height="50dip"
+	android:text="@string/continues"
+	android:textColor="#ffffff"
+	android:textSize="20dip"
+	/>
+	
+	<Button
+	android:id="@+id/howtoplay"
+	android:background="@drawable/newgame_selector"
+	android:layout_gravity="center_horizontal"
+	android:layout_marginTop="32dip"
+	android:layout_width="190dip"
+	android:layout_height="50dip"
+	android:text="@string/howtoplay"
+	android:textColor="#ffffff"
+	android:textSize="20dip"
+	/>
+	
+	<Button
+	android:id="@+id/aboutgame"
+	android:background="@drawable/newgame_selector"
+	android:layout_gravity="center_horizontal"
+	android:layout_marginTop="32dip"
+	android:layout_width="190dip"
+	android:layout_height="50dip"
+	android:text="@string/aboutgame"
+	android:textColor="#ffffff"
+	android:textSize="20dip"
+	/>
+	
+	<Button
+	android:id="@+id/exit"
+	android:background="@drawable/newgame_selector"
+	android:layout_gravity="center_horizontal"
+	android:layout_marginTop="32dip"
+	android:layout_width="190dip"
+	android:layout_height="50dip"
+	android:text="@string/exit"
+	android:textColor="#ffffff"
+	android:textSize="20dip"
+	/>
+	
+
+</LinearLayout>
